@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Tienda_creación">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-LAGMLAB:DESKTOP-LAGMLAB\ingal">
+          <Created>2023-04-25T18:36:49.224486+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-LAGMLAB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Facturas2.0</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Create Table Cliente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LAGMLAB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LAGMLAB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Create Table Cliente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTable Encargo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LAGMLAB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LAGMLAB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTable Encargo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTable Pedido.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LAGMLAB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LAGMLAB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTable Pedido.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTable Producto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LAGMLAB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LAGMLAB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTable Producto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Clientes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LAGMLAB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LAGMLAB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Clientes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Pedidos_Encargos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LAGMLAB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LAGMLAB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Pedidos_Encargos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert Productos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LAGMLAB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LAGMLAB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert Productos.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
