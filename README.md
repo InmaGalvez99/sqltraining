@@ -12,3 +12,9 @@ También encontráis las siguientes consultas realizadas:
 ✔ Estudio de clientes
 
 ✔ Clasificación de productos por gamas 
+
+✔ Marcas y Clientes sin pedido
+
+✔ Creación de procedimientos almacenados para postesrior inserción
+
+✔ Inserción de ventas tras la creación de procedimientos almacenados
