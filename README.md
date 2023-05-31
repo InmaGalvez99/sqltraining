@@ -6,6 +6,9 @@ Mi primer proyecto se basa en la creación de una tienda de productos tecnológi
 y los INSERT de esos Clientes, Pedidos, Productos y Encargos.
 
 También encontráis las siguientes consultas realizadas:
+
 ✔ Informe de las marcas
+
 ✔ Estudio de clientes
+
 ✔ Clasificación de productos por gamas 
