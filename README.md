@@ -2,8 +2,13 @@
 
 Este repositorio es de TSQl 💻
 
-Mi primer proyecto se basa en la creación de una tienda de productos tecnológicos. En la primera carpeta se ecnuentran la creaciones de las tablas Cliente, Pedido, Encargo, Producto
-y los INSERT de esos Clientes, Pedidos, Productos y Encargos.
+Mi primer proyecto se basa en la creación de una tienda de productos tecnológicos. 
+
+En la primera carpeta se encuentran:
+
+✔ Creación de las tablas Productos, Clientes, Pedidos y Encargos.
+
+✔ Insertar los clientes, pedidos, encargos y productos de la tienda.
 
 También encontráis las siguientes consultas realizadas:
 
